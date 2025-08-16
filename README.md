@@ -6,9 +6,9 @@ Portfolio personnel moderne et responsive présentant mes compétences en dével
 
 ## 🌟 Aperçu
 
-- **Site live :** [https://hatim3310.github.io/portfolio](https://hatim3310.github.io/portfolio)
+- Site live :(https://laamartihatim.vercel.app/)
 - **Technologies :** HTML5, CSS3, JavaScript, EmailJS
-- **Hébergement :** GitHub Pages
+- **Hébergement :** Vercel
 
 ## ✨ Fonctionnalités
 
@@ -24,7 +24,7 @@ Portfolio personnel moderne et responsive présentant mes compétences en dével
 
 1. **Cloner le repository**
 ```bash
-git clone https://github.com/hatim3310/portfolio.git
+git clone https://github.com/hatim3310/New_Portfolio.git
 cd portfolio
 ```
 
@@ -42,34 +42,7 @@ npx http-server
 3. **Accéder au site**
 Ouvrir `http://localhost:8000` dans votre navigateur
 
-## 📧 Configuration du formulaire de contact
 
-Le formulaire utilise EmailJS pour l'envoi d'emails. Pour le configurer :
-
-1. **Créer un compte EmailJS**
-   - Aller sur [EmailJS.com](https://emailjs.com)
-   - Créer un compte gratuit
-
-2. **Configurer le service email**
-   - Ajouter un service email (Gmail, Outlook, etc.)
-   - Noter le `Service ID`
-
-3. **Créer un template d'email**
-   - Créer un nouveau template
-   - Noter le `Template ID`
-   - Utiliser ces variables : `{{from_name}}`, `{{from_email}}`, `{{subject}}`, `{{message}}`
-
-4. **Mettre à jour le code**
-   Dans `index.html`, remplacer :
-   ```javascript
-   emailjs.init("YOUR_EMAILJS_USER_ID"); // Votre User ID
-   
-   await emailjs.send(
-       'YOUR_SERVICE_ID',    // Votre Service ID
-       'YOUR_TEMPLATE_ID',   // Votre Template ID
-       templateParams
-   );
-   ```
 
 ## 📁 Structure du projet
 
@@ -110,7 +83,7 @@ git push origin main
    - Sauvegarder
 
 3. **Accéder au site**
-   Le site sera disponible à : `https://[username].github.io/portfolio`
+   Le site sera disponible à : `[(https://github.com/hatim3310/New_Portfolio)]`
 
 ## 🎨 Personnalisation
 
@@ -154,9 +127,7 @@ Le site est optimisé pour tous les appareils :
 - **Email :** EmailJS
 - **Hébergement :** GitHub Pages
 
-## 📄 Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ## 📞 Contact
 
@@ -177,5 +148,6 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 - **v1.2.0** - Intégration EmailJS et déploiement GitHub Pages
 
 ---
+
 
 **Fait avec ❤️ par Hatim Lamarti**
