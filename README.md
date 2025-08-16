@@ -131,7 +131,7 @@ Le site est optimisé pour tous les appareils :
 
 ## 📞 Contact
 
-- **Email :** contact@hatimlamarti.dev
+- **Email :** Hatimlamarti3@gmail.com
 - **LinkedIn :** [linkedin.com/in/lamartihatim](https://linkedin.com/in/lamartihatim)
 - **GitHub :** [github.com/hatim3310](https://github.com/hatim3310)
 
@@ -151,3 +151,4 @@ Le site est optimisé pour tous les appareils :
 
 
 **Fait avec ❤️ par Hatim Lamarti**
+
