@@ -47,7 +47,7 @@ Ouvrir `http://localhost:8000` dans votre navigateur
 ## 📁 Structure du projet
 
 ```
-portfolio/
+New_Portfolio/
 ├── index.html              # Page principale
 ├── blog.html               # Page blog
 ├── css/
@@ -151,4 +151,5 @@ Le site est optimisé pour tous les appareils :
 
 
 **Fait avec ❤️ par Hatim Lamarti**
+
 
